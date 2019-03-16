@@ -1,0 +1,5 @@
+thing_name = "parking_lot_detector_1"
+root_ca_path = "root-CA.crt"
+certificate_path = "87c0242f77-certificate.pem.crt"
+private_key_path = "87c0242f77-private.pem.key"
+cloud_endpoint = "a2xjafr182j7zy-ats.iot.us-west-2.amazonaws.com"
